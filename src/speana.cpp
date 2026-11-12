@@ -5,8 +5,8 @@
 #include <FspTimer.h>
 
 // ---------- WiFi設定 ----------
-const char *SSID = "rs500m-14aaf8-1";
-const char *PASSWORD = "6a6a227fb3f17";
+const char *SSID = "rs500m-XXXXXX-X";
+const char *PASSWORD = "0123456789abcd";
 
 // ---------- 音声設定 ----------
 constexpr uint16_t UDP_PORT = 5005;
